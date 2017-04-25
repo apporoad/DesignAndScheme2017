@@ -1,0 +1,38 @@
+基础篇
+1、谈谈对java的理解
+2、什么是Java虚拟机？为什么Java被称作是“平台无关的编程语言”？
+3、JDK和JRE的区别是什么？
+6、Applet
+7、Swing多少了解
+8、Servlet
+9、什么是Web应用程序？
+10、说说对JSP的理解
+11、使用过哪些web容器
+12、注解的理解
+
+三方框架部分：
+1、spring
+2、mybatis、hibernate
+3、springMVC 、 struts或者其他
+
+
+高级部分
+1、字节码了解吗？
+2、jvm 的性能优化了解吗
+3、模式多少了解
+4、反射多了解
+5、类加载器的理解
+6、对GC多少了解、GC工作原理？
+
+平台开发部分：
+1、linux熟悉吗？熟悉哪个发行版
+2、熟悉哪些语言？  c#、java、C/C++、ruby、Python、node、scala、go、bash、php
+3、常见的web容器了解、tomcat、jetty、apache、nginx等
+4、负载均衡原理
+5、常见开源的消息队列框架（rocket、rabbit、kafka。。）
+6、内存缓存框架（redis等等）
+7、容器技术的了解
+8、大数据框架了解多少
+9、数据库分布式原理
+10、分布式文件服务器了解多少
+
