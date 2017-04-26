@@ -1,0 +1,12 @@
+1 centos7  
+2 docker
+3 tomcat jetty
+4 nginx lvs
+5 swarm
+6 Redis
+7 RabbitMQ
+8 QuartZ
+9 NFS
+10 InvokeTrace
+11 Eureka（注册中心）
+12 git
