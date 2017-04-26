@@ -21,3 +21,5 @@ all:
 paas1  orgin os,
 contains:
 vim java7 wget
+
+paas2 docker
