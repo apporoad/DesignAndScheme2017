@@ -7,4 +7,17 @@ mast: 255.255.255.0
 paas ip1  192.168.3.231
 
 
+corp:
 
+gete:192.168.12.250
+mask:255.255.255.0
+dns:192.168.10.240
+
+paas ip1  192.168.12.231 00:0C:29:2A:C7:EB
+
+
+all:
+
+paas1  orgin os,
+contains:
+vim java7 wget
