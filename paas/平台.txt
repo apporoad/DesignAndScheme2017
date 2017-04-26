@@ -10,3 +10,16 @@
 10 InvokeTrace
 11 Eureka(reg center)
 12 git
+
+
+
+
+swarm etcd
+NFS
+redis cluster
+rabbitMq cluster
+Eureka
+docker  tomcat php jetty websphere 
+netflix zuul
+jekins
+zabbix
