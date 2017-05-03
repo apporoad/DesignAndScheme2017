@@ -15,6 +15,8 @@ dns:192.168.10.240
 
 paas ip1  192.168.12.231 00:0C:29:1B:DD:2F
 
+centos7docker 192.168.12.231 00:0C:29:1B:DD:2F
+
 
 all:
 
@@ -22,4 +24,6 @@ paas1  orgin os,
 contains:
 vim java7 wget
 
-paas2 docker
+
+centos7docker:
+docker-machine manager1 woker1 woker2
