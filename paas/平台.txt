@@ -14,12 +14,13 @@
 
 
 
-swarm etcd
+--swarm etcd
 NFS
 redis cluster
 rabbitMq cluster
 Eureka
 docker  tomcat php jetty websphere 
 netflix zuul
-jekins
+jenkins
 zabbix
+--git server
