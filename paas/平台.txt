@@ -24,3 +24,18 @@ netflix zuul
 jenkins
 zabbix
 --git server
+
+
+bigData
+job
+ai
+lb
+logCenter
+RegCenter
+ConfCenter
+Dis-DB
+Dis-Storage
+sso
+dis-cache
+pipe mq
+safe
