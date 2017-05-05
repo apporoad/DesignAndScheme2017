@@ -24,6 +24,8 @@ netflix zuul
 jenkins
 zabbix
 --git server
+spring clound
+spring boot
 
 
 bigData
