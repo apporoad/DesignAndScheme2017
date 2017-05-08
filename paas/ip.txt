@@ -17,6 +17,8 @@ paas ip1  192.168.12.231 00:0C:29:1B:DD:2F
 centos7docker 192.168.12.231 00:0C:29:1B:DD:2F
 centos7   192.168.12.231 00:0C:29:1B:DD:2F
 
+openSuse 192.168.12.231 00:0C:29:1B:DD:2F  for dev
+
 all:
 
 paas1  orgin os,
