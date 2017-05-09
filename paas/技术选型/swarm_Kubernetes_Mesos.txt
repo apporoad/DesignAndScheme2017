@@ -1,3 +1,6 @@
-Docker Swarm¡¢Google KubernetesºÍApache Mesos
+Docker Swarmï¿½ï¿½Google Kubernetesï¿½ï¿½Apache Mesos
 
 http://blog.csdn.net/wangtaoking1/article/details/46731913
+
+
+https://docs.docker.com/engine/swarm/swarm-tutorial/create-swarm/
