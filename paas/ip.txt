@@ -20,15 +20,23 @@ paas ip23  192.168.3.235  docker
 
 corp:
 
-gete ip3.168.12.250
-mask:255.255.255.0
-dns:192.168.10.240
+    gete ip3.168.12.250
+    mask:255.255.255.0
+    dns:192.168.10.240
 
-paas ip1  192.168.12.231 00:0C:29:1B:DD:2F
-centos7docker 192.168.12.231 00:0C:29:1B:DD:2F
-centos7   192.168.12.231 00:0C:29:1B:DD:2F
+    paas ip1  192.168.12.231 00:0C:29:1B:DD:2F
+    centos7docker 192.168.12.231 00:0C:29:1B:DD:2F
+    centos7   192.168.12.231 00:0C:29:1B:DD:2F
 
-openSuse 192.168.12.231 00:0C:29:1B:DD:2F  for dev
+    openSuse 192.168.12.231 00:0C:29:1B:DD:2F  for dev
+
+
+    log cluster(kafka lostash)
+    gate 192.168.12.250 dns 192.168.10.240   
+    centos7 192.168.12.236  00:50:56:2D:24:9A   log1
+    centos7 192.168.12.237  00:50:56:29:C8:FC   log2
+    centos7 192.168.12.238  00:50:56:31:2D:ED   log3
+
 
 all:
 
