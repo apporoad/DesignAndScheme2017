@@ -13,11 +13,6 @@ paas ip23  192.168.3.235  docker
 
 
 
-
-
-
-
-
 corp:
 
     gete ip3.168.12.250
